@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyWebApp", "LegacyWebApp\LegacyWebApp.csproj", "{237C6368-27D8-479B-BEF4-99684B1F2C75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacyWebAppCore", "LegacyWebAppCore\LegacyWebAppCore.csproj", "{6E9BEB06-9F8A-4092-8A2D-A02CEC83B603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237C6368-27D8-479B-BEF4-99684B1F2C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237C6368-27D8-479B-BEF4-99684B1F2C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237C6368-27D8-479B-BEF4-99684B1F2C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237C6368-27D8-479B-BEF4-99684B1F2C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9BEB06-9F8A-4092-8A2D-A02CEC83B603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9BEB06-9F8A-4092-8A2D-A02CEC83B603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9BEB06-9F8A-4092-8A2D-A02CEC83B603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9BEB06-9F8A-4092-8A2D-A02CEC83B603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61EE95D9-9DB2-43A4-8390-020CC95FCF85}
+	EndGlobalSection
+EndGlobal
